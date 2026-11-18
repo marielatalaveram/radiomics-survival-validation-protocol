@@ -1,0 +1,11 @@
+,value
+n_rep,100.0
+size_mean,6.83
+size_sd,6.764516750565918
+n_empty,28.0
+size_nonempty_mean,9.48611111111111
+size_nonempty_sd,6.184927284019369
+jaccard_mean,0.09829390891688951
+jaccard_sd,0.12470580189360118
+jaccard_nonempty_mean,0.1758214990485207
+jaccard_nonempty_sd,0.11910493983470116

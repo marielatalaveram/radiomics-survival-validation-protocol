@@ -1,0 +1,7 @@
+seed,scheme,fold,n_fdr,n_final,selected
+44,nested,1,0,0,
+44,nested,2,1,1,Corr_T1_glcm_Idmn_seg3
+44,nested,3,0,0,
+44,nested,4,1,1,Corr_T1_firstorder_Variance_seg1
+44,nested,5,0,0,
+44,single,0,0,0,

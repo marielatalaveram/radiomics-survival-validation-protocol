@@ -1,0 +1,7 @@
+seed,scheme,fold,n_fdr,n_final,selected
+45,nested,1,0,0,
+45,nested,2,5,5,Corr_T1_glszm_GrayLevelNonUniformityNormalized_seg5;Corr_T1_glrlm_ShortRunLowGrayLevelEmphasis_seg4;Corr_T1_gldm_GrayLevelNonUniformity_seg5;Corr_T1_glcm_JointEntropy_seg1;Corr_T1_glrlm_HighGrayLevelRunEmphasis_seg3
+45,nested,3,0,0,
+45,nested,4,0,0,
+45,nested,5,0,0,
+45,single,0,0,0,

@@ -1,0 +1,7 @@
+seed,scheme,fold,n_fdr,n_final,selected
+47,nested,1,3,3,Corr_T1_firstorder_Variance_seg4;Corr_T1_glrlm_GrayLevelVariance_seg4;Corr_T1_shape_VoxelVolume_seg3
+47,nested,2,0,0,
+47,nested,3,0,0,
+47,nested,4,0,0,
+47,nested,5,1,1,Corr_T1_gldm_SmallDependenceHighGrayLevelEmphasis_seg5
+47,single,0,0,0,

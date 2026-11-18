@@ -1,0 +1,7 @@
+seed,scheme,fold,n_fdr,n_final,selected
+51,nested,1,0,0,
+51,nested,2,0,0,
+51,nested,3,0,0,
+51,nested,4,0,0,
+51,nested,5,1,1,Corr_T1_gldm_SmallDependenceEmphasis_seg4
+51,single,0,0,0,

@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "radiomics-protocol"
+version = "1.0.0"
+description = "A four-step validation protocol for radiomic survival analysis in small cohorts"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = [
+    "numpy",
+    "pandas",
+    "scipy",
+    "scikit-learn",
+    "scikit-survival",
+    "lifelines",
+    "statsmodels",
+    "joblib",
+]
+
+[project.optional-dependencies]
+notebook = ["jupyterlab", "ipykernel"]
+dev = ["pytest", "nbconvert", "nbformat"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

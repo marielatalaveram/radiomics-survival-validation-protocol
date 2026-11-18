@@ -1,0 +1,7 @@
+seed,scheme,fold,n_fdr,n_final,selected
+50,nested,1,0,0,
+50,nested,2,1,1,Corr_T1_gldm_HighGrayLevelEmphasis_seg2
+50,nested,3,3,3,Corr_T1_firstorder_Uniformity_seg3;Corr_T1_gldm_SmallDependenceHighGrayLevelEmphasis_seg2;Corr_T1_shape_SurfaceArea_seg5
+50,nested,4,0,0,
+50,nested,5,0,0,
+50,single,0,2,2,Corr_T1_firstorder_Skewness_seg1;Corr_T1_gldm_HighGrayLevelEmphasis_seg2

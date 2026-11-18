@@ -1,0 +1,19 @@
+{
+  "alpha_fdr": 0.2,
+  "corr_method": "single",
+  "corr_threshold": 0.8,
+  "criterion": "concordance",
+  "ascending": false,
+  "n_outer": 5,
+  "test_size": 0.3,
+  "n_time_points": 10,
+  "empty_policy": "chance",
+  "null": null,
+  "models": [
+    "Cox_RIDGE",
+    "Cox_LASSO",
+    "RSF",
+    "GBM",
+    "SSVM"
+  ]
+}

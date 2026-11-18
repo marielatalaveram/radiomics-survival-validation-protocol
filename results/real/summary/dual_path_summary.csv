@@ -1,0 +1,15 @@
+model,metric,n_seeds,mean_diff,sd_diff_between_seeds,mean_fold_sd_of_diff,frac_seeds_A_better
+Cox_LASSO,auc,10,-0.002,0.051,0.186,0.3
+Cox_LASSO,ci_test,10,-0.0,0.034,0.154,0.5
+Cox_LASSO,ibs,10,0.004,0.007,0.011,0.3
+Cox_RIDGE,auc,10,-0.023,0.051,0.148,0.4
+Cox_RIDGE,ci_test,10,-0.023,0.042,0.151,0.2
+Cox_RIDGE,ibs,10,-0.019,0.032,0.055,0.8
+GBM,auc,10,0.034,0.081,0.151,0.6
+GBM,ci_test,10,0.033,0.067,0.135,0.7
+GBM,ibs,10,0.001,0.015,0.021,0.7
+RSF,auc,10,-0.016,0.056,0.159,0.4
+RSF,ci_test,10,-0.009,0.051,0.148,0.6
+RSF,ibs,10,-0.009,0.005,0.01,1.0
+SSVM,auc,10,0.047,0.089,0.164,0.8
+SSVM,ci_test,10,0.048,0.067,0.157,0.9
